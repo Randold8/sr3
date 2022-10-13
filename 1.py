@@ -1,0 +1,10 @@
+print("Введите имя")
+A = input()
+print("Введите фамилию")
+B = input()
+print("Введите год рождения")
+C = input()
+print(A+"_"+B+"_"+C)
+A, B = B, A
+C = str(int(C) + 60)
+print(A+"_"+B+"_"+C)
