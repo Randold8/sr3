@@ -1,2 +1,2 @@
 # sr3
-![kitty](https://imgur.com/a/Kp637sm)
+![kitty](https://media.tenor.com/80m6C4YXbOIAAAAd/indeed-i-love-you.gif)
